@@ -7,6 +7,6 @@ public class Main {
         Weapon weapon = new Weapon();
         int attackdamage = weapon.attack();
         System.out.println(attackdamage);
-
+//skibi
     }
 }
