@@ -3,8 +3,8 @@ public class Item {
 
     public String name;
     public float weight = 0;
-}
+
 
 public Item(){
 
-}
+}}

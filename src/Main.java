@@ -4,9 +4,6 @@ public class Main {
         System.out.println("Hello world!");
 
 
-        Weapon weapon = new Weapon();
-        int attackdamage = weapon.attack();
-        System.out.println(attackdamage);
-//skibi
+
     }
 }
