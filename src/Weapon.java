@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.random.RandomGenerator;
 
 public class Weapon extends Item {
-    public int minDamage = 1;
+    public int minDamage = 0;
     public int maxDamage = 0;
 
 
